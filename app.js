@@ -54,9 +54,3 @@ app.post('/failure', function (req, res) {
 app.listen(3000,function(){
     console.log('Server is running on port 3000');
 })
-
-//api
-//58fd2885f537c2a726c4ae7dd2cc66d1-us12
-
-//listid
-//
